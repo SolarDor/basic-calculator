@@ -29,7 +29,7 @@ _HTML, CSS, JS_
 
 *Licensed under MIT*
 
-Copyright (c) 2016 
+Copyright (c) 2020 
 
 ** _Sean Wilson <paintballsean@gmail.com>_
 ** _Cameron Will <cellardoorsolar@aol.com>_
